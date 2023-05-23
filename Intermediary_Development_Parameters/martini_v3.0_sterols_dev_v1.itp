@@ -1,3 +1,26 @@
+; MARTINI 3 Cholesterol Version 0.1 (April 2023)
+; by Luís Borges-Araújo; Ana C. Borges-Araújo; Tugba Nur Ozturk; Daniel P. Ramirez-Echemendia,
+; Balázs Fábián, Timothy S. Carpenter; Sebastian Thallmair, Jonathan Barnoud; Helgi I. Ingólfsson;
+; Gerhard Hummer; D. Peter Tieleman; Siewert J. Marrink; Paulo C. T. Souza; Manuel N. Melo.
+;
+; Martini 3 development topology of Cholesterol (Dev1).
+;
+; !!!WARNING!!! THIS IS A DEVELOPMENT VERSION OF CHOLESTEROL. SOME PROPERTIES MAY NOT WORK AS INTENDED.
+; FOR REGULAR USAGE, USE THE MAIN TOPOLOGY AVAILABLE IN THIS GITHUB. !!!WARNING!!!
+;
+; Warning(s)/Note(s):
+;   Add define=-DFLEXIBLE to select harmonic bonds for minimization purposes.
+;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;
+; When using these parameters please read and cite the parameterization article:
+;   Borges-Araújo, L. et al. Martini 3 Coarse-Grained Force Field for cholesterol. (2023) doi:10.26434/chemrxiv-2023-lh7bq 
+;
+; Also be sure to check https://github.com/Martini-Force-Field-Initiative/M3-Sterol-Parameters
+; for updates to these parameters.
+;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
 [ moleculetype ]
 ; molname  nrexcl
   CHOL     1
