@@ -15,7 +15,7 @@
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;
 ; When using these parameters please read and cite the parameterization article:
-;   Borges-Araújo, L. et al. Martini 3 Coarse-Grained Force Field for cholesterol. (2023) doi:10.26434/chemrxiv-2023-lh7bq 
+;   Borges-Araújo, L. et al. Martini 3 Coarse-Grained Force Field for cholesterol. (2023) doi: https://doi.org/10.1021/acs.jctc.3c00547
 ;
 ; Also be sure to check https://github.com/Martini-Force-Field-Initiative/M3-Sterol-Parameters
 ; for updates to these parameters.
