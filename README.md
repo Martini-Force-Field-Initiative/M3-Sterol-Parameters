@@ -16,7 +16,7 @@ by Luís Borges-Araújo [^1][^2]; Ana C. Borges-Araújo [^1]; Tugba Nur Ozturk[^
 
 # Cite us!
 If you use these parameters please cite the following article:
-   Borges-Araújo, L. et al. Martini 3 Coarse-Grained Force Field for cholesterol. (2023) doi:10.26434/chemrxiv-2023-lh7bq 
+   Borges-Araújo, L. et al. Martini 3 Coarse-Grained Force Field for cholesterol. (2023) doi: https://doi.org/10.1021/acs.jctc.3c00547
 
 
 # Contents
